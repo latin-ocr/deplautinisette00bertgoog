@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deplautinisette00bertgoog_0008.png"; bbox 0 0 3030 5266; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 214 2103 1175 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 214 2103 1175 2225">
+     <span class='ocr_line' id='line_1_1' title="bbox 214 2103 1175 2225; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 214 2103 563 2225; x_wconf 78' lang='lat' dir='ltr'>PLAUTINIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 605 2104 679 2222; x_wconf 81' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_3' title='bbox 722 2103 1175 2224; x_wconf 75' lang='lat' dir='ltr'><strong>TERENTIANIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 328 2400 1059 2480">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 328 2400 1059 2480">
+     <span class='ocr_line' id='line_1_2' title="bbox 328 2400 1059 2480; baseline -0.011 0"><span class='ocrx_word' id='word_1_4' title='bbox 328 2402 736 2480; x_wconf 76' lang='lat' dir='ltr'><strong>ADOLESCENTIBUS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 765 2400 1059 2475; x_wconf 67' lang='lat' dir='ltr'><strong>AMATORIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1520 5266">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1520 5266">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1520 5266; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1520 5266; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
